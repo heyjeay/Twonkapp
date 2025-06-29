@@ -15,6 +15,10 @@ No browser tabs. No fumbling. Just Knock Knock and go.
 - 🔄 Auto-detects your Twitch username and loads:
 
 
+
+## 🖱️ Stop scrolling
+Download the release and try it out for yourself: [Release v 1.0](https://github.com/heyjeay/Twonkapp/releases/download/Release/Twonk.Setup.1.0.0.exe)
+
 ---
 
 ## 🧱 Tech Stack
@@ -41,4 +45,6 @@ No browser tabs. No fumbling. Just Knock Knock and go.
 
 ## 💡 Why "Twonk"?
 
-Jumping through all the hoops just to colaborate with streamers shouldn't be hard... so i made this to combat that.
+Jumping through all the hoops just to collaborate with streamers shouldn't be hard... so i made this to combat that.
+
+📨 Any questions? join my discord: https://discord.gg/ctRBtskn6T
