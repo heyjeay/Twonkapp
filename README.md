@@ -35,7 +35,7 @@ No browser tabs. No fumbling. Just Knock Knock and go.
 ## 📸 Screenshots
 
 
-![Twonk_oR8YLYQNoP](https://github.com/user-attachments/assets/89aec829-01a9-4eb4-8ff4-854e208290ff)
+![ImageGlass_cuhao6nNGC](https://github.com/user-attachments/assets/18673b43-e2ab-4fb6-a367-81ebc5db4c41)
 
 ![Twonk_OdMZFER43C](https://github.com/user-attachments/assets/ad4b1d96-bce9-4866-ab60-32ec2ab6ee59)
 
